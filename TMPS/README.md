@@ -1,4 +1,4 @@
-## Topic: Implementing Creational Design Patterns in todo list app
+## Implementing Creational Design Patterns in todo list app
 
 ## Coval Dumitru<br />
 
@@ -12,5 +12,3 @@ How to run:
 1. Open the terminal.
 2. Type "npm i"(wait for all necessary packets to install).
 3. Type "npm start"
-
-!
